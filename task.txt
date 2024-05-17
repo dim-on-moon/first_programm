@@ -1,0 +1,1 @@
+The task for current lesson is quite simple: create new text file, write some text, save the file and make commit.
